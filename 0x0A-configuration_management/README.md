@@ -3,7 +3,7 @@
 > Auth : Kefuoe Sole
 -----------------------------------------
 # 0x0A. Configuration management
-++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------
 Requirements
 General
 All your files will be interpreted on Ubuntu 20.04 LTS
